@@ -7,9 +7,6 @@ git merge
 
 I make some changes in the branch dev.
 try this
-<<<<<<< HEAD
 
 this is a try
-=======
 try it
->>>>>>> dev
