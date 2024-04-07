@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 git merge
 
 delete all!
-new changes
